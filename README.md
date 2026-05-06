@@ -4,8 +4,8 @@
 ## Team Members
 - Firezer : Theory Lead
 - Mintesinot : Data Engineer
-- Robera : Algorithm Builder (Me)
-- Student 4: Evaluator
+- Robera : Algorithm Builder
+- Abel : Evaluator
 - Yohannis : Report Lead
 
 ## Project Progress
