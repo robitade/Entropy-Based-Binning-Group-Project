@@ -6,7 +6,7 @@
 - Mintesinot : Data Engineer
 - Robera : Algorithm Builder
 - Abel : Evaluator
-- Yohannis : Report Lead
+- Yohannes : Report Lead
 
 ## Project Progress
 ### Week 1: Core Mathematical Functions (Completed)
